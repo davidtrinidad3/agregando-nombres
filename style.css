@@ -12,6 +12,11 @@ input {
 	margin: 0;
 }
 
+h1 {
+	margin: 20px;
+	text-decoration-line: underline;
+}
+
 .nombres {
 	max-width: 600px;
 	margin: auto;
